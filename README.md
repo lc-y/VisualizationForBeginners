@@ -1,2 +1,12 @@
-# VisualizationForBeginners
-Storage of Python data visualization project for beginners
+# 《超详细！小白也能玩转Python数据可视化》项目代码收录处
+
+该仓管是用于收录《超详细！小白也能玩转Python数据可视化的》项目中所涉及的代码内容
+
+### 1、学习代码
+
+使用Matplotlib以及Seaborn时，常常会出现许多用于控制颜色、线条、模糊度等图表细节的代码，
+通过代码举例，直观的感受不太参数的图表控制效果，加深图表印象！
+
+### 2、案例代码
+
+完整的数据可视化分析案例代码
